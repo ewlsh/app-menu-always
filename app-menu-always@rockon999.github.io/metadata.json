@@ -1,0 +1,16 @@
+{
+  "description": "Forces the panel to always show the app menu even if the app menu is set to appear on the titlebar.",
+  "name": "App Menu Always",
+  "shell-version": [
+    "3.18",
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26"
+  ],
+  "uuid": "app-menu-always@rockon999.github.io",
+  "settings-schema": "org.gnome.shell.extensions.app-menu-always",
+  "version": 1,
+  "gettext-domain": "app-menu-always",
+  "url": "http://github.com/rockon999/toggle-to-desktop/"
+}
